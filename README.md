@@ -22,6 +22,6 @@ I very much just looked what the people over at [FrBmt-BIGetNouf/balatro-french-
 6. Inside 7zip, open the `localization` folder
 7. Drag'n'drop the downloaded file inside
 8. Confirm the file copying and close 7zip
-9. You can now launch Balatro, select the French language and enjoy!
+9. You can now launch Balatro, select the english language and enjoy!
 
 > **Important:** The file update must be done every new game update.
