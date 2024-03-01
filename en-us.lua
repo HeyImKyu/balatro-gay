@@ -144,7 +144,7 @@ return {
                 name = "Four Fingers",
                 text = {
                     "All {C:attention}Flushes{} and",
-                    "{C:attention}Straights{} can be",
+                    "{C:attention}Gays{} can be",
                     "made with {C:attention}4{} cards"
                 }
             },
@@ -389,7 +389,7 @@ return {
                 text = {
                     "Create a {C:tarot}Tarot{} card if",
                     "poker hand contains an",
-                    "{C:attention}Ace{} and a {C:attention}Straight{}",
+                    "{C:attention}Ace{} and a {C:attention}Gay{}",
                     "{C:inactive}(Must have room)"
                 }
             },
@@ -440,7 +440,7 @@ return {
                 text = {
                     "Gains {C:chips}+#2#{} Chips",
                     "if played hand",
-                    "contains a {C:attention}Straight{}",
+                    "contains a {C:attention}Gay{}",
                     "{C:inactive}(Currently {C:chips}+#1#{C:inactive} Chips)"
                 }
             },
@@ -984,7 +984,7 @@ return {
             j_shortcut = {
                 name = "Shortcut",
                 text = {
-                    "Allows {C:attention}Straights{} to be",
+                    "Allows {C:attention}Gays{} to be",
                     "made with gaps of {C:attention}1 rank",
                     "{C:inactive}(ex: {C:attention}2 3 5 7 8{C:inactive})"
                 }
