@@ -1,6 +1,6 @@
 [![Balatro](https://www.playbalatro.com/assets/logo2-C9SU2BrI.png)](https://www.playbalatro.com/)
 
-# Balatro Gay Translations
+# Balatro Gay Translation
 
 This is very silly.
 
@@ -11,11 +11,28 @@ I very much just looked what the people over at [FrBmt-BIGetNouf/balatro-french-
 
 > **Disclaimer:** I don't know how up to date i can keep this, but i'll try
 
-## How do I install the new file?
+# How do I install the new file?
+
+**There is two ways you can add this to your game:**
+
+## The better way: Balamod
+
+1. **Close Balatro**
+2. Install [UwUDev/balamod](https://github.com/UwUDev/balamod) as explained in their Readme
+3. Download `gay.lua` from this repo
+4. Put it into `%appdata%/Balatro/mods`
+5. You can now launch Balatro, select the english language and enjoy!
+
+> This should work even when the game updates. If it doesn't, please open an Issue.
+
+> **Important:** This only works with Balamod 0.1.9 which is not released as of now. You can build it from master though.
+
+## Without a modloader
+
 [7zip](https://7-zip.org/) must be installed on your computer.
 
 1. **Close Balatro**
-2. Download the en-us.lua
+2. Download the `en-us.lua`
 3. Go to the Balatro folder (Eg: `SteamLibrary\steamapps\common\Balatro\`)
 4. Right click on `Balatro.exe`
 5. In the `7-Zip` menu, click on `Open archive`
