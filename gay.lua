@@ -7,12 +7,14 @@ table.insert(mods,
             on_enable = function()
                 G.localization.misc.poker_hands['Straight Flush'] = "Gay Flush"
                 G.localization.misc.poker_hands['Straight'] = "Gay"
+                G.localization.misc.poker_hands['Royal Flush'] = "Royal Gay Flush"
 
                 local patch = [[
 
 
                 G.localization.misc.poker_hands['Straight Flush'] = "Gay Flush"
                 G.localization.misc.poker_hands['Straight'] = "Gay"
+                G.localization.misc.poker_hands['Royal Flush'] = "Royal Gay Flush"
 
                 init_localization()
                 ]]
