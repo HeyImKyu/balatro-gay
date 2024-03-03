@@ -1,3 +1,9 @@
+if (sendDebugMessage == nil) then
+    sendDebugMessage = function(_)
+    end
+end
+
+
 table.insert(mods,
         {
             mod_id = "gay",
@@ -23,7 +29,7 @@ table.insert(mods,
 
                 inject("game.lua", "Game:set_language", toPatch:gsub("([^%w])", "%%%1"), patch)
 
-                sendDebugMessage("Done")
+                sendDebugMessage("Patched gay mod !")
             end,
         }
 )
