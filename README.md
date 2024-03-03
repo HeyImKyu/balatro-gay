@@ -19,7 +19,7 @@ I very much just looked what the people over at [FrBmt-BIGetNouf/balatro-french-
 
 1. **Close Balatro**
 2. Install [UwUDev/balamod](https://github.com/UwUDev/balamod) as explained in their Readme
-3. Download `gay.lua` from this repo
+3. Download `balamod/mods/gay.lua` from this repo
 4. Put it into `%appdata%/Balatro/mods`
 5. You can now launch Balatro, select the english language and enjoy!
 
