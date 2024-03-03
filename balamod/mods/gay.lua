@@ -9,6 +9,10 @@ table.insert(mods,
             mod_id = "gay",
             name = "Gay",
             version = "0.6.9",
+            author = "Kyu & UwUdev",
+            description = {
+                "Changes \"Straight\" to \"Gay\""
+            },
             enabled = true,
             on_enable = function()
                 G.localization.misc.poker_hands['Straight Flush'] = "Gay Flush"
@@ -16,8 +20,6 @@ table.insert(mods,
                 G.localization.misc.poker_hands['Royal Flush'] = "Royal Gay Flush"
 
                 local patch = [[
-
-
                 G.localization.misc.poker_hands['Straight Flush'] = "Gay Flush"
                 G.localization.misc.poker_hands['Straight'] = "Gay"
                 G.localization.misc.poker_hands['Royal Flush'] = "Royal Gay Flush"
