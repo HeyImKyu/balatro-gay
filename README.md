@@ -17,11 +17,17 @@ I very much just looked what the people over at [FrBmt-BIGetNouf/balatro-french-
 
 ## The better way: Balamod
 
+Automatically:
+1. **Close Balatro**
+2. Install [UwUDev/balamod](https://github.com/UwUDev/balamod) as explained in their Readme
+3. Go into the mods tab, select 'Gay' and click 'Download'
+
+Or manually:
 1. **Close Balatro**
 2. Install [UwUDev/balamod](https://github.com/UwUDev/balamod) as explained in their Readme
 3. Download `balamod/mods/gay.lua` from this repo
 4. Put it into `%appdata%/Balatro/mods`
-5. You can now launch Balatro, select the english language and enjoy!
+5. You can now launch Balatro and enjoy!
 
 > This should work even when the game updates. If it doesn't, please open an Issue.
 
