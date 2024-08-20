@@ -1,0 +1,11 @@
+{
+    "id": "gay",
+    "name": "Gay",
+    "version": "0.6.9",
+    "description": [
+        "Changes \"Straight\" to \"Gay\""
+    ],
+    "author": "Kyu & UwUdev",
+    "load_before": [],
+    "load_after": []
+}
